@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/Baju1.jpeg",
+    "nama": "Baju Muslim",
+    "harga": "215.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:08354738598 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/Baju2.jpeg",
+    "nama": "Baju Polos",
+    "harga": "20.000",
+    "ukuran": "L",
+    "contact": "<p> Email:adminbaju.com </p> <p> Phone:082575638 </p> <p>Address:Jl.Pahlawan No.1 Surabaya </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/Baju3.jpeg",
+    "nama": "Baju Kaos Anak",
+    "harga": "190.000",
+    "ukuran": "L",
+    "contact": "<p> Email:officialbaju.com </p> <p> Phone:08347677 </p> <p>Address:Jl.Sudirman No.5 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/Baju4.jpeg",
+    "nama": "Baju China ",
+    "harga": "250.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminjumpsuit.com </p> <p> Phone:082638475 </p> <p>Address:Jl.Kamboja No.10 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/Baju5.jpeg",
+    "nama": "Baju Cosplay ",
+    "harga": "150.000",
+    "ukuran": "L",
+    "contact": "<p> Email:officialstore.com </p> <p> Phone:0831193756 </p> <p>Address:Jl.Seruni No.14 Surabaya </p>"
+  }
+]
